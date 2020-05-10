@@ -1,3 +1,3 @@
-# solve_interviewbit
+# Solve Interviewbit
 
-An attempt to solve interviewbit problems. Sometime I see have to use the hints and see the solutions over the internet.
+An attempt to solve interviewbit problems. Not all the solutions are of my own.
